@@ -23,6 +23,7 @@
     <ProjectGuid>{C56BBEA6-AEE6-436A-95FC-A0390E00AA41}</ProjectGuid>
     <RootNamespace>Romannumerals</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Roman-numerals</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
